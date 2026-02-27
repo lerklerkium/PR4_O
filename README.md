@@ -19,7 +19,7 @@
 - `Pages/MainPage` - Главная с кнопками заданий
 - `Pages/Task1Page, Pages/Task2Page, Pages/Task3Page` - Страницы заданий
 - `Controls/BackButton` - Кнопка возврата на главную для страниц заданий
-- `images/` - изображения формул (1.jpg, 2.jpg, 3.jpg)
+- `images/` - Изображения формул (1.jpg, 2.jpg, 3.jpg)
 
 ## Запуск
 1. Открыть решение в Visual Studio
